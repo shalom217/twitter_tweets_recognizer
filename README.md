@@ -1,8 +1,10 @@
 # twitter_tweets_recognizer
+![alt text](https://github.com/shalom217/twitter_tweets_recognizer/blob/main/images/model_image2.jpg)
 We see many tweets on twitter with having information regarding some disaster such as earthquake, cyclone, landslides etc. However many tweets may appear as real or true but a large number of tweets just being spread by multiple groups just to make fake rumours, spread negitivity, fear in between innocent people. In some cases these groups traps people and ask for money. All in all this being done on a large scale in proabably every country and it must be supervised by any government body to take care of people of nation.
 AI along with its amazing tools such as Natural Language Processing, LSTM etc allow us to easily identify all these fraudlent type of tweets and can take actions against such accounts.
 In this method a huge data set is used for the training of model with having 11k approx tweets of both real and fake. So whenever a new tweet is posted containing some hazardous information in it, the tweet will be analyzed by the deep learning model itself and if it is found to be real then its ok but in case of fake the action must be taken against the account accociated with the tweet and also tweet must be deleted.
 The tweets have some common words, that  may used repeatedly.
+![alt text](https://github.com/shalom217/twitter_tweets_recognizer/blob/main/images/model_image1.jpg)
 
 # Dataset:
 The dataset is takken from the kaggle.
