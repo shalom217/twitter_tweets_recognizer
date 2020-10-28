@@ -40,3 +40,8 @@ Although model was supposed to train on 50 epochs but earlystopping executed at 
 # Technology/Library Used:
 Python, Sklearn, Natural Language Processing, Tensorflow, Bidirectional LSTM, Keras, Pandas, Numpy and Seaborn for model creation.
 Flask for web frame work with HTML and CSS for styling and Heroku cloud for the model deployment.
+
+# Deployment:
+See how it is working
+https://tweet-recognizer.herokuapp.com/
+
